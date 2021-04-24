@@ -1,0 +1,12 @@
+C:\Users\3nora\source\repos\jaba2_task1\bin\Debug\netcoreapp3.1\jaba2_task1.exe
+C:\Users\3nora\source\repos\jaba2_task1\bin\Debug\netcoreapp3.1\jaba2_task1.deps.json
+C:\Users\3nora\source\repos\jaba2_task1\bin\Debug\netcoreapp3.1\jaba2_task1.runtimeconfig.json
+C:\Users\3nora\source\repos\jaba2_task1\bin\Debug\netcoreapp3.1\jaba2_task1.runtimeconfig.dev.json
+C:\Users\3nora\source\repos\jaba2_task1\bin\Debug\netcoreapp3.1\jaba2_task1.dll
+C:\Users\3nora\source\repos\jaba2_task1\bin\Debug\netcoreapp3.1\jaba2_task1.pdb
+C:\Users\3nora\source\repos\jaba2_task1\obj\Debug\netcoreapp3.1\jaba2_task1.AssemblyInfoInputs.cache
+C:\Users\3nora\source\repos\jaba2_task1\obj\Debug\netcoreapp3.1\jaba2_task1.AssemblyInfo.cs
+C:\Users\3nora\source\repos\jaba2_task1\obj\Debug\netcoreapp3.1\jaba2_task1.csproj.CoreCompileInputs.cache
+C:\Users\3nora\source\repos\jaba2_task1\obj\Debug\netcoreapp3.1\jaba2_task1.dll
+C:\Users\3nora\source\repos\jaba2_task1\obj\Debug\netcoreapp3.1\jaba2_task1.pdb
+C:\Users\3nora\source\repos\jaba2_task1\obj\Debug\netcoreapp3.1\jaba2_task1.genruntimeconfig.cache
